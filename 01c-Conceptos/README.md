@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-# Conceptos
+# Conceptos: 
 
 #### Expresiones vs Statements
 
